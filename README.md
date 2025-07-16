@@ -1,6 +1,7 @@
 # Teeny Tanks
 
 - GitHub Repository: [mpb9/teeny-tanks](https://github.com/mpb9/teeny-tanks)
+- Google Drive Documentation: https://drive.google.com/drive/folders/1zmnBVBg28dwezfypROusuikIB3obyWCU?usp=share_link
 
 ## To-Do :v:
 
